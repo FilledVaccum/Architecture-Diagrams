@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.4" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="3449" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="Dynamic Pricing for Airlines on AWS" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry y="80" width="520" height="50" as="geometry" />
+          <mxGeometry x="-240" y="40" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SCVMTBWpLvtzJIhz15lM-1" value="" style="line;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry y="139.5" width="1150" height="10" as="geometry" />
+          <mxGeometry x="-240" y="99.5" width="1150" height="10" as="geometry" />
         </mxCell>
         <mxCell id="BbXFBSCTHNXguyg0V_PA-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;verticalAlign=top;align=left;spacingLeft=30;dashed=0;" parent="1" vertex="1">
-          <mxGeometry y="160" width="1040" height="880" as="geometry" />
+          <mxGeometry x="-240" y="120" width="1040" height="880" as="geometry" />
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-36" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="BbXFBSCTHNXguyg0V_PA-1" source="nVxsjFVYYI63gNsHiGVo-1" target="nVxsjFVYYI63gNsHiGVo-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -212,84 +212,92 @@
           <mxGeometry x="750" y="363.5888524590165" width="40" height="33.32786885245901" as="geometry" />
         </mxCell>
         <mxCell id="BbXFBSCTHNXguyg0V_PA-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="492" width="78" height="78" as="geometry" />
+          <mxGeometry x="-400" y="452" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-39" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="1" source="nVxsjFVYYI63gNsHiGVo-26" target="nVxsjFVYYI63gNsHiGVo-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-26" value="" style="shape=actor;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="729" width="40" height="60" as="geometry" />
+          <mxGeometry x="910" y="689" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;flowAnimation=1;" parent="1" source="BbXFBSCTHNXguyg0V_PA-2" target="BbXFBSCTHNXguyg0V_PA-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-121" y="441" />
+              <mxPoint x="-361" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-28" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" parent="1" source="BbXFBSCTHNXguyg0V_PA-2" target="BbXFBSCTHNXguyg0V_PA-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-121" y="609" />
+              <mxPoint x="-361" y="569" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-3" value="" style="rounded=0;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="240" width="440" height="640" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-4" value="1" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1218" y="250.52459016393442" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-5" value="2" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1219" y="292.62295081967216" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-6" value="3" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1216.5" y="411.31491803278686" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-7" value="4" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1216.5" y="480.0022950819672" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-8" value="5" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1216.5" y="559.9988524590165" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-9" value="6" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1217" y="639.9995081967213" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-10" value="7" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1216.5" y="741.737213114754" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-11" value="8" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1217" y="819.1490163934426" width="40" height="33.32786885245901" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-13" value="Data is ingested from booking engines and search data using Amazon Kinesis Data Firehose." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1269.5" y="250.09" width="350.5" height="33.77" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-14" value="Booking data is stored in Amazon Simple Storage Service (Amazon S3) and queried in batches using Amazon Athena by a generated AWS Lambda event to determine booking rates in the current period. For low latency requirements, Amazon Managed Service for Apache Flink runs queries on the ingestion stream." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1271" y="293.06" width="359" height="100.86" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-15" value="Search data is stored in an Amazon S3 bucket. For low latency requirements, Managed Service for Apache Flink runs rolling queries." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1268.5" y="410" width="361.5" height="59.2" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-16" value="Historic booking data is used to train models and then build demand forecast models. These are updated on a regular basis to help compare booking demand to projected bookings." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1268.5" y="480.44" width="341.5" height="69.56" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-17" value="Environment state variables such as booking rate, search rate, total margin, available capacity, and booking forecast are all stored in Amazon DynamoDB for the current versioned environment state." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="560.44" width="352" height="69.56" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-18" value="The pricing agent algorithm is generated by AWS Lambda to assess the environment state and recommend the appropriate price adjustment. Adjustment recommendations update the Amazon DynamoDB pricing agent store." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1267.5" y="641.32" width="362.5" height="87.82" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-19" value="The trader evaluates the recommendation from the Amazon DynamoDB feed and rejects or approves it. The trader has dashboards available in Amazon QuickSight." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1267.5" y="742.18" width="362.5" height="76.96" as="geometry" />
-        </mxCell>
-        <mxCell id="7OVz4w7n9kzEPWy-4BBC-20" value="Approved and timestamped price adjustments are available for the booking engine to search and use." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1267.5" y="819.14" width="342" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-45" value="1" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-122" y="400.0045901639344" width="40" height="33.32786885245901" as="geometry" />
+          <mxGeometry x="-362" y="360.0045901639344" width="40" height="33.32786885245901" as="geometry" />
         </mxCell>
         <mxCell id="nVxsjFVYYI63gNsHiGVo-53" value="7" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="679.997213114754" width="40" height="33.32786885245901" as="geometry" />
+          <mxGeometry x="880" y="639.997213114754" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="voshUBrxfFByvAwUhYK2" name="Rough Work">
+    <mxGraphModel dx="-74" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-1" value="" style="rounded=0;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="240" width="440" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-2" value="1" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="250.52459016393442" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-3" value="2" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1219" y="292.62295081967216" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-4" value="3" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1216.5" y="411.31491803278686" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-5" value="4" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1216.5" y="480.0022950819672" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-6" value="5" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1216.5" y="559.9988524590165" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-7" value="6" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="639.9995081967213" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-8" value="7" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1216.5" y="741.737213114754" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-9" value="8" style="rounded=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1217" y="819.1490163934426" width="40" height="33.32786885245901" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-10" value="Data is ingested from booking engines and search data using Amazon Kinesis Data Firehose." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1269.5" y="250.09" width="350.5" height="33.77" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-11" value="Booking data is stored in Amazon Simple Storage Service (Amazon S3) and queried in batches using Amazon Athena by a generated AWS Lambda event to determine booking rates in the current period. For low latency requirements, Amazon Managed Service for Apache Flink runs queries on the ingestion stream." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="293.06" width="359" height="100.86" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-12" value="Search data is stored in an Amazon S3 bucket. For low latency requirements, Managed Service for Apache Flink runs rolling queries." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1268.5" y="410" width="361.5" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-13" value="Historic booking data is used to train models and then build demand forecast models. These are updated on a regular basis to help compare booking demand to projected bookings." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1268.5" y="480.44" width="341.5" height="69.56" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-14" value="Environment state variables such as booking rate, search rate, total margin, available capacity, and booking forecast are all stored in Amazon DynamoDB for the current versioned environment state." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1268" y="560.44" width="352" height="69.56" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-15" value="The pricing agent algorithm is generated by AWS Lambda to assess the environment state and recommend the appropriate price adjustment. Adjustment recommendations update the Amazon DynamoDB pricing agent store." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="641.32" width="362.5" height="87.82" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-16" value="The trader evaluates the recommendation from the Amazon DynamoDB feed and rejects or approves it. The trader has dashboards available in Amazon QuickSight." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="742.18" width="362.5" height="76.96" as="geometry" />
+        </mxCell>
+        <mxCell id="b3bOXL7VvsjsTR99GvG_-17" value="Approved and timestamped price adjustments are available for the booking engine to search and use." style="text;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1267.5" y="819.14" width="342" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
